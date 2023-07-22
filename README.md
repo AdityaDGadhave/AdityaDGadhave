@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaDGadhave
 - 👀 I’m interested in ...python and data field
-- 🌱 I’m currently learning ... Data science 
+- 🌱 I’m currently learning ... Data science with Ineuron
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...adityagadhave211@gmail.com
 
