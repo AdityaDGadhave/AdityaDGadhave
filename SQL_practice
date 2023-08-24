@@ -1,0 +1,11 @@
+create table info(id int,techno varchar(20));
+insert into info(id,techno) values(1,'ds'),
+(1,'python'),
+(2,'R'),
+(1,'SQL'),
+(2,'Tableu'),
+(3,'powebi');
+select id,count(techno)
+from info 
+where techno in('ds','python','SQL')
+group by id having count(techno)>=3 
